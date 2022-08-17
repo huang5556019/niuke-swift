@@ -12,10 +12,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-//        while let s = readLine() {
-//            var worldLength = Easy_hj1_lengthOfLastWord.lengthOfLastWord(s)
-//            print(worldLength)
-//        }
+        while let s = readLine() {
+            var worldLength = Easy_hj1_lengthOfLastWord.lengthOfLastWord(s)
+            print(worldLength)
+        }
     }
 
 

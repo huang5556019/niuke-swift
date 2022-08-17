@@ -16,7 +16,9 @@
 		F8CFE65F28AD2296000BF4A7 /* nowcoderHuaweiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE65E28AD2296000BF4A7 /* nowcoderHuaweiUITests.swift */; };
 		F8CFE66128AD2296000BF4A7 /* nowcoderHuaweiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE66028AD2296000BF4A7 /* nowcoderHuaweiUITestsLaunchTests.swift */; };
 		F8CFE67228AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67128AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift */; };
-		F8CFE67728AD256B000BF4A7 /* Hj1Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67628AD256B000BF4A7 /* Hj1Test.swift */; };
+		F8CFE67728AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67628AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift */; };
+		F8CFE67928AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67828AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift */; };
+		F8CFE67B28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67A28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,7 +53,9 @@
 		F8CFE66028AD2296000BF4A7 /* nowcoderHuaweiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nowcoderHuaweiUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F8CFE67128AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_hj1_lengthOfLastWord.swift; sourceTree = "<group>"; };
 		F8CFE67328AD232F000BF4A7 /* nowcoderHuawei.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = nowcoderHuawei.entitlements; sourceTree = "<group>"; };
-		F8CFE67628AD256B000BF4A7 /* Hj1Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hj1Test.swift; sourceTree = "<group>"; };
+		F8CFE67628AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_hj1_lengthOfLastWordTest.swift; sourceTree = "<group>"; };
+		F8CFE67828AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_hj10_countOfWord.swift; sourceTree = "<group>"; };
+		F8CFE67A28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_hj10_countOfWordTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +150,7 @@
 			isa = PBXGroup;
 			children = (
 				F8CFE67128AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift */,
+				F8CFE67828AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -175,7 +180,8 @@
 		F8CFE67528AD2530000BF4A7 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE67628AD256B000BF4A7 /* Hj1Test.swift */,
+				F8CFE67628AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift */,
+				F8CFE67A28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -313,6 +319,7 @@
 			files = (
 				F8CFE64228AD2295000BF4A7 /* ViewController.swift in Sources */,
 				F8CFE63E28AD2295000BF4A7 /* AppDelegate.swift in Sources */,
+				F8CFE67928AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift in Sources */,
 				F8CFE64028AD2295000BF4A7 /* SceneDelegate.swift in Sources */,
 				F8CFE67228AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift in Sources */,
 			);
@@ -322,7 +329,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8CFE67728AD256B000BF4A7 /* Hj1Test.swift in Sources */,
+				F8CFE67728AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift in Sources */,
+				F8CFE67B28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
