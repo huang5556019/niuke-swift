@@ -7,73 +7,70 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F8CFE63E28AD2295000BF4A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE63D28AD2295000BF4A7 /* AppDelegate.swift */; };
-		F8CFE64028AD2295000BF4A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE63F28AD2295000BF4A7 /* SceneDelegate.swift */; };
-		F8CFE64228AD2295000BF4A7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE64128AD2295000BF4A7 /* ViewController.swift */; };
-		F8CFE64528AD2295000BF4A7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8CFE64328AD2295000BF4A7 /* Main.storyboard */; };
-		F8CFE64728AD2296000BF4A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8CFE64628AD2296000BF4A7 /* Assets.xcassets */; };
-		F8CFE64A28AD2296000BF4A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8CFE64828AD2296000BF4A7 /* LaunchScreen.storyboard */; };
-		F8CFE65F28AD2296000BF4A7 /* nowcoderHuaweiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE65E28AD2296000BF4A7 /* nowcoderHuaweiUITests.swift */; };
-		F8CFE66128AD2296000BF4A7 /* nowcoderHuaweiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE66028AD2296000BF4A7 /* nowcoderHuaweiUITestsLaunchTests.swift */; };
-		F8CFE67228AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67128AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift */; };
-		F8CFE67728AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67628AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift */; };
-		F8CFE67928AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67828AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift */; };
-		F8CFE67B28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8CFE67A28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift */; };
+		F8B8858028B0902700B50712 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B8857F28B0902700B50712 /* AppDelegate.swift */; };
+		F8B8858228B0902700B50712 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B8858128B0902700B50712 /* ViewController.swift */; };
+		F8B8858428B0902700B50712 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8B8858328B0902700B50712 /* Assets.xcassets */; };
+		F8B8858728B0902700B50712 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8B8858528B0902700B50712 /* Main.storyboard */; };
+		F8B8859228B0902700B50712 /* nowcoderHuaweiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B8859128B0902700B50712 /* nowcoderHuaweiTests.swift */; };
+		F8B8859C28B0902800B50712 /* nowcoderHuaweiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B8859B28B0902800B50712 /* nowcoderHuaweiUITests.swift */; };
+		F8B8859E28B0902800B50712 /* nowcoderHuaweiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B8859D28B0902800B50712 /* nowcoderHuaweiUITestsLaunchTests.swift */; };
+		F8B885B428B090F700B50712 /* Easy_hj10_countOfWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B885B028B090F700B50712 /* Easy_hj10_countOfWord.swift */; };
+		F8B885B528B090F700B50712 /* Easy_hj1_lengthOfLastWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B885B128B090F700B50712 /* Easy_hj1_lengthOfLastWord.swift */; };
+		F8B885BA28B0910200B50712 /* Easy_hj10_countOfWordTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B885B828B0910200B50712 /* Easy_hj10_countOfWordTest.swift */; };
+		F8B885BB28B0910200B50712 /* Easy_hj1_lengthOfLastWordTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B885B928B0910200B50712 /* Easy_hj1_lengthOfLastWordTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		F8CFE65128AD2296000BF4A7 /* PBXContainerItemProxy */ = {
+		F8B8858E28B0902700B50712 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F8CFE63228AD2295000BF4A7 /* Project object */;
+			containerPortal = F8B8857428B0902700B50712 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F8CFE63928AD2295000BF4A7;
+			remoteGlobalIDString = F8B8857B28B0902700B50712;
 			remoteInfo = nowcoderHuawei;
 		};
-		F8CFE65B28AD2296000BF4A7 /* PBXContainerItemProxy */ = {
+		F8B8859828B0902800B50712 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F8CFE63228AD2295000BF4A7 /* Project object */;
+			containerPortal = F8B8857428B0902700B50712 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F8CFE63928AD2295000BF4A7;
+			remoteGlobalIDString = F8B8857B28B0902700B50712;
 			remoteInfo = nowcoderHuawei;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F8CFE63A28AD2295000BF4A7 /* nowcoderHuawei.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nowcoderHuawei.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F8CFE63D28AD2295000BF4A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F8CFE63F28AD2295000BF4A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F8CFE64128AD2295000BF4A7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F8CFE64428AD2295000BF4A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F8CFE64628AD2296000BF4A7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F8CFE64928AD2296000BF4A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F8CFE64B28AD2296000BF4A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F8CFE65028AD2296000BF4A7 /* nowcoderHuaweiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nowcoderHuaweiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F8CFE65A28AD2296000BF4A7 /* nowcoderHuaweiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nowcoderHuaweiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F8CFE65E28AD2296000BF4A7 /* nowcoderHuaweiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nowcoderHuaweiUITests.swift; sourceTree = "<group>"; };
-		F8CFE66028AD2296000BF4A7 /* nowcoderHuaweiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nowcoderHuaweiUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		F8CFE67128AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_hj1_lengthOfLastWord.swift; sourceTree = "<group>"; };
-		F8CFE67328AD232F000BF4A7 /* nowcoderHuawei.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = nowcoderHuawei.entitlements; sourceTree = "<group>"; };
-		F8CFE67628AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_hj1_lengthOfLastWordTest.swift; sourceTree = "<group>"; };
-		F8CFE67828AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_hj10_countOfWord.swift; sourceTree = "<group>"; };
-		F8CFE67A28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_hj10_countOfWordTest.swift; sourceTree = "<group>"; };
+		F8B8857C28B0902700B50712 /* nowcoderHuawei.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nowcoderHuawei.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8B8857F28B0902700B50712 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F8B8858128B0902700B50712 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F8B8858328B0902700B50712 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F8B8858628B0902700B50712 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F8B8858828B0902700B50712 /* nowcoderHuawei.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = nowcoderHuawei.entitlements; sourceTree = "<group>"; };
+		F8B8858D28B0902700B50712 /* nowcoderHuaweiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nowcoderHuaweiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8B8859128B0902700B50712 /* nowcoderHuaweiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nowcoderHuaweiTests.swift; sourceTree = "<group>"; };
+		F8B8859728B0902800B50712 /* nowcoderHuaweiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nowcoderHuaweiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8B8859B28B0902800B50712 /* nowcoderHuaweiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nowcoderHuaweiUITests.swift; sourceTree = "<group>"; };
+		F8B8859D28B0902800B50712 /* nowcoderHuaweiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nowcoderHuaweiUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F8B885B028B090F700B50712 /* Easy_hj10_countOfWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Easy_hj10_countOfWord.swift; sourceTree = "<group>"; };
+		F8B885B128B090F700B50712 /* Easy_hj1_lengthOfLastWord.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Easy_hj1_lengthOfLastWord.swift; sourceTree = "<group>"; };
+		F8B885B828B0910200B50712 /* Easy_hj10_countOfWordTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Easy_hj10_countOfWordTest.swift; sourceTree = "<group>"; };
+		F8B885B928B0910200B50712 /* Easy_hj1_lengthOfLastWordTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Easy_hj1_lengthOfLastWordTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F8CFE63728AD2295000BF4A7 /* Frameworks */ = {
+		F8B8857928B0902700B50712 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F8CFE64D28AD2296000BF4A7 /* Frameworks */ = {
+		F8B8858A28B0902700B50712 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F8CFE65728AD2296000BF4A7 /* Frameworks */ = {
+		F8B8859428B0902800B50712 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -83,105 +80,103 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F8CFE63128AD2295000BF4A7 = {
+		F8B8857328B0902700B50712 = {
 			isa = PBXGroup;
 			children = (
-				F8CFE63C28AD2295000BF4A7 /* nowcoderHuawei */,
-				F8CFE65328AD2296000BF4A7 /* nowcoderHuaweiTests */,
-				F8CFE65D28AD2296000BF4A7 /* nowcoderHuaweiUITests */,
-				F8CFE63B28AD2295000BF4A7 /* Products */,
+				F8B8857E28B0902700B50712 /* nowcoderHuawei */,
+				F8B8859028B0902700B50712 /* nowcoderHuaweiTests */,
+				F8B8859A28B0902800B50712 /* nowcoderHuaweiUITests */,
+				F8B8857D28B0902700B50712 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F8CFE63B28AD2295000BF4A7 /* Products */ = {
+		F8B8857D28B0902700B50712 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE63A28AD2295000BF4A7 /* nowcoderHuawei.app */,
-				F8CFE65028AD2296000BF4A7 /* nowcoderHuaweiTests.xctest */,
-				F8CFE65A28AD2296000BF4A7 /* nowcoderHuaweiUITests.xctest */,
+				F8B8857C28B0902700B50712 /* nowcoderHuawei.app */,
+				F8B8858D28B0902700B50712 /* nowcoderHuaweiTests.xctest */,
+				F8B8859728B0902800B50712 /* nowcoderHuaweiUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F8CFE63C28AD2295000BF4A7 /* nowcoderHuawei */ = {
+		F8B8857E28B0902700B50712 /* nowcoderHuawei */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE67328AD232F000BF4A7 /* nowcoderHuawei.entitlements */,
-				F8CFE66D28AD22A3000BF4A7 /* Solutions */,
-				F8CFE63D28AD2295000BF4A7 /* AppDelegate.swift */,
-				F8CFE63F28AD2295000BF4A7 /* SceneDelegate.swift */,
-				F8CFE64128AD2295000BF4A7 /* ViewController.swift */,
-				F8CFE64328AD2295000BF4A7 /* Main.storyboard */,
-				F8CFE64628AD2296000BF4A7 /* Assets.xcassets */,
-				F8CFE64828AD2296000BF4A7 /* LaunchScreen.storyboard */,
-				F8CFE64B28AD2296000BF4A7 /* Info.plist */,
+				F8B8857F28B0902700B50712 /* AppDelegate.swift */,
+				F8B8858128B0902700B50712 /* ViewController.swift */,
+				F8B885AE28B090F700B50712 /* Solutions */,
+				F8B8858328B0902700B50712 /* Assets.xcassets */,
+				F8B8858528B0902700B50712 /* Main.storyboard */,
+				F8B8858828B0902700B50712 /* nowcoderHuawei.entitlements */,
 			);
 			path = nowcoderHuawei;
 			sourceTree = "<group>";
 		};
-		F8CFE65328AD2296000BF4A7 /* nowcoderHuaweiTests */ = {
+		F8B8859028B0902700B50712 /* nowcoderHuaweiTests */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE67428AD2529000BF4A7 /* Solutions */,
+				F8B8859128B0902700B50712 /* nowcoderHuaweiTests.swift */,
+				F8B885B628B0910200B50712 /* Solutions */,
 			);
 			path = nowcoderHuaweiTests;
 			sourceTree = "<group>";
 		};
-		F8CFE65D28AD2296000BF4A7 /* nowcoderHuaweiUITests */ = {
+		F8B8859A28B0902800B50712 /* nowcoderHuaweiUITests */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE65E28AD2296000BF4A7 /* nowcoderHuaweiUITests.swift */,
-				F8CFE66028AD2296000BF4A7 /* nowcoderHuaweiUITestsLaunchTests.swift */,
+				F8B8859B28B0902800B50712 /* nowcoderHuaweiUITests.swift */,
+				F8B8859D28B0902800B50712 /* nowcoderHuaweiUITestsLaunchTests.swift */,
 			);
 			path = nowcoderHuaweiUITests;
 			sourceTree = "<group>";
 		};
-		F8CFE66D28AD22A3000BF4A7 /* Solutions */ = {
+		F8B885AE28B090F700B50712 /* Solutions */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE67028AD22D2000BF4A7 /* Hard */,
-				F8CFE66F28AD22C4000BF4A7 /* Medium */,
-				F8CFE66E28AD22AD000BF4A7 /* Easy */,
+				F8B885AF28B090F700B50712 /* Easy */,
+				F8B885B228B090F700B50712 /* Hard */,
+				F8B885B328B090F700B50712 /* Medium */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
 		};
-		F8CFE66E28AD22AD000BF4A7 /* Easy */ = {
+		F8B885AF28B090F700B50712 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE67128AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift */,
-				F8CFE67828AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift */,
+				F8B885B028B090F700B50712 /* Easy_hj10_countOfWord.swift */,
+				F8B885B128B090F700B50712 /* Easy_hj1_lengthOfLastWord.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
 		};
-		F8CFE66F28AD22C4000BF4A7 /* Medium */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Medium;
-			sourceTree = "<group>";
-		};
-		F8CFE67028AD22D2000BF4A7 /* Hard */ = {
+		F8B885B228B090F700B50712 /* Hard */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Hard;
 			sourceTree = "<group>";
 		};
-		F8CFE67428AD2529000BF4A7 /* Solutions */ = {
+		F8B885B328B090F700B50712 /* Medium */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE67528AD2530000BF4A7 /* Easy */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
+		F8B885B628B0910200B50712 /* Solutions */ = {
+			isa = PBXGroup;
+			children = (
+				F8B885B728B0910200B50712 /* Easy */,
 			);
 			path = Solutions;
 			sourceTree = "<group>";
 		};
-		F8CFE67528AD2530000BF4A7 /* Easy */ = {
+		F8B885B728B0910200B50712 /* Easy */ = {
 			isa = PBXGroup;
 			children = (
-				F8CFE67628AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift */,
-				F8CFE67A28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift */,
+				F8B885B828B0910200B50712 /* Easy_hj10_countOfWordTest.swift */,
+				F8B885B928B0910200B50712 /* Easy_hj1_lengthOfLastWordTest.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -189,13 +184,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F8CFE63928AD2295000BF4A7 /* nowcoderHuawei */ = {
+		F8B8857B28B0902700B50712 /* nowcoderHuawei */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F8CFE66428AD2296000BF4A7 /* Build configuration list for PBXNativeTarget "nowcoderHuawei" */;
+			buildConfigurationList = F8B885A128B0902800B50712 /* Build configuration list for PBXNativeTarget "nowcoderHuawei" */;
 			buildPhases = (
-				F8CFE63628AD2295000BF4A7 /* Sources */,
-				F8CFE63728AD2295000BF4A7 /* Frameworks */,
-				F8CFE63828AD2295000BF4A7 /* Resources */,
+				F8B8857828B0902700B50712 /* Sources */,
+				F8B8857928B0902700B50712 /* Frameworks */,
+				F8B8857A28B0902700B50712 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -203,69 +198,69 @@
 			);
 			name = nowcoderHuawei;
 			productName = nowcoderHuawei;
-			productReference = F8CFE63A28AD2295000BF4A7 /* nowcoderHuawei.app */;
+			productReference = F8B8857C28B0902700B50712 /* nowcoderHuawei.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F8CFE64F28AD2296000BF4A7 /* nowcoderHuaweiTests */ = {
+		F8B8858C28B0902700B50712 /* nowcoderHuaweiTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F8CFE66728AD2296000BF4A7 /* Build configuration list for PBXNativeTarget "nowcoderHuaweiTests" */;
+			buildConfigurationList = F8B885A428B0902800B50712 /* Build configuration list for PBXNativeTarget "nowcoderHuaweiTests" */;
 			buildPhases = (
-				F8CFE64C28AD2296000BF4A7 /* Sources */,
-				F8CFE64D28AD2296000BF4A7 /* Frameworks */,
-				F8CFE64E28AD2296000BF4A7 /* Resources */,
+				F8B8858928B0902700B50712 /* Sources */,
+				F8B8858A28B0902700B50712 /* Frameworks */,
+				F8B8858B28B0902700B50712 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F8CFE65228AD2296000BF4A7 /* PBXTargetDependency */,
+				F8B8858F28B0902700B50712 /* PBXTargetDependency */,
 			);
 			name = nowcoderHuaweiTests;
 			productName = nowcoderHuaweiTests;
-			productReference = F8CFE65028AD2296000BF4A7 /* nowcoderHuaweiTests.xctest */;
+			productReference = F8B8858D28B0902700B50712 /* nowcoderHuaweiTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F8CFE65928AD2296000BF4A7 /* nowcoderHuaweiUITests */ = {
+		F8B8859628B0902800B50712 /* nowcoderHuaweiUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F8CFE66A28AD2296000BF4A7 /* Build configuration list for PBXNativeTarget "nowcoderHuaweiUITests" */;
+			buildConfigurationList = F8B885A728B0902800B50712 /* Build configuration list for PBXNativeTarget "nowcoderHuaweiUITests" */;
 			buildPhases = (
-				F8CFE65628AD2296000BF4A7 /* Sources */,
-				F8CFE65728AD2296000BF4A7 /* Frameworks */,
-				F8CFE65828AD2296000BF4A7 /* Resources */,
+				F8B8859328B0902800B50712 /* Sources */,
+				F8B8859428B0902800B50712 /* Frameworks */,
+				F8B8859528B0902800B50712 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F8CFE65C28AD2296000BF4A7 /* PBXTargetDependency */,
+				F8B8859928B0902800B50712 /* PBXTargetDependency */,
 			);
 			name = nowcoderHuaweiUITests;
 			productName = nowcoderHuaweiUITests;
-			productReference = F8CFE65A28AD2296000BF4A7 /* nowcoderHuaweiUITests.xctest */;
+			productReference = F8B8859728B0902800B50712 /* nowcoderHuaweiUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F8CFE63228AD2295000BF4A7 /* Project object */ = {
+		F8B8857428B0902700B50712 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					F8CFE63928AD2295000BF4A7 = {
+					F8B8857B28B0902700B50712 = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
-					F8CFE64F28AD2296000BF4A7 = {
+					F8B8858C28B0902700B50712 = {
 						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = F8CFE63928AD2295000BF4A7;
+						TestTargetID = F8B8857B28B0902700B50712;
 					};
-					F8CFE65928AD2296000BF4A7 = {
+					F8B8859628B0902800B50712 = {
 						CreatedOnToolsVersion = 13.4.1;
-						TestTargetID = F8CFE63928AD2295000BF4A7;
+						TestTargetID = F8B8857B28B0902700B50712;
 					};
 				};
 			};
-			buildConfigurationList = F8CFE63528AD2295000BF4A7 /* Build configuration list for PBXProject "nowcoderHuawei" */;
+			buildConfigurationList = F8B8857728B0902700B50712 /* Build configuration list for PBXProject "nowcoderHuawei" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -273,37 +268,36 @@
 				en,
 				Base,
 			);
-			mainGroup = F8CFE63128AD2295000BF4A7;
-			productRefGroup = F8CFE63B28AD2295000BF4A7 /* Products */;
+			mainGroup = F8B8857328B0902700B50712;
+			productRefGroup = F8B8857D28B0902700B50712 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F8CFE63928AD2295000BF4A7 /* nowcoderHuawei */,
-				F8CFE64F28AD2296000BF4A7 /* nowcoderHuaweiTests */,
-				F8CFE65928AD2296000BF4A7 /* nowcoderHuaweiUITests */,
+				F8B8857B28B0902700B50712 /* nowcoderHuawei */,
+				F8B8858C28B0902700B50712 /* nowcoderHuaweiTests */,
+				F8B8859628B0902800B50712 /* nowcoderHuaweiUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F8CFE63828AD2295000BF4A7 /* Resources */ = {
+		F8B8857A28B0902700B50712 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8CFE64A28AD2296000BF4A7 /* LaunchScreen.storyboard in Resources */,
-				F8CFE64728AD2296000BF4A7 /* Assets.xcassets in Resources */,
-				F8CFE64528AD2295000BF4A7 /* Main.storyboard in Resources */,
+				F8B8858428B0902700B50712 /* Assets.xcassets in Resources */,
+				F8B8858728B0902700B50712 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F8CFE64E28AD2296000BF4A7 /* Resources */ = {
+		F8B8858B28B0902700B50712 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F8CFE65828AD2296000BF4A7 /* Resources */ = {
+		F8B8859528B0902800B50712 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -313,72 +307,64 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F8CFE63628AD2295000BF4A7 /* Sources */ = {
+		F8B8857828B0902700B50712 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8CFE64228AD2295000BF4A7 /* ViewController.swift in Sources */,
-				F8CFE63E28AD2295000BF4A7 /* AppDelegate.swift in Sources */,
-				F8CFE67928AD3C84000BF4A7 /* Easy_hj10_countOfWord.swift in Sources */,
-				F8CFE64028AD2295000BF4A7 /* SceneDelegate.swift in Sources */,
-				F8CFE67228AD22EB000BF4A7 /* Easy_hj1_lengthOfLastWord.swift in Sources */,
+				F8B885B528B090F700B50712 /* Easy_hj1_lengthOfLastWord.swift in Sources */,
+				F8B8858228B0902700B50712 /* ViewController.swift in Sources */,
+				F8B8858028B0902700B50712 /* AppDelegate.swift in Sources */,
+				F8B885B428B090F700B50712 /* Easy_hj10_countOfWord.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F8CFE64C28AD2296000BF4A7 /* Sources */ = {
+		F8B8858928B0902700B50712 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8CFE67728AD256B000BF4A7 /* Easy_hj1_lengthOfLastWordTest.swift in Sources */,
-				F8CFE67B28AD3DBF000BF4A7 /* Easy_hj10_countOfWordTest.swift in Sources */,
+				F8B885BB28B0910200B50712 /* Easy_hj1_lengthOfLastWordTest.swift in Sources */,
+				F8B8859228B0902700B50712 /* nowcoderHuaweiTests.swift in Sources */,
+				F8B885BA28B0910200B50712 /* Easy_hj10_countOfWordTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F8CFE65628AD2296000BF4A7 /* Sources */ = {
+		F8B8859328B0902800B50712 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8CFE66128AD2296000BF4A7 /* nowcoderHuaweiUITestsLaunchTests.swift in Sources */,
-				F8CFE65F28AD2296000BF4A7 /* nowcoderHuaweiUITests.swift in Sources */,
+				F8B8859E28B0902800B50712 /* nowcoderHuaweiUITestsLaunchTests.swift in Sources */,
+				F8B8859C28B0902800B50712 /* nowcoderHuaweiUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		F8CFE65228AD2296000BF4A7 /* PBXTargetDependency */ = {
+		F8B8858F28B0902700B50712 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F8CFE63928AD2295000BF4A7 /* nowcoderHuawei */;
-			targetProxy = F8CFE65128AD2296000BF4A7 /* PBXContainerItemProxy */;
+			target = F8B8857B28B0902700B50712 /* nowcoderHuawei */;
+			targetProxy = F8B8858E28B0902700B50712 /* PBXContainerItemProxy */;
 		};
-		F8CFE65C28AD2296000BF4A7 /* PBXTargetDependency */ = {
+		F8B8859928B0902800B50712 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F8CFE63928AD2295000BF4A7 /* nowcoderHuawei */;
-			targetProxy = F8CFE65B28AD2296000BF4A7 /* PBXContainerItemProxy */;
+			target = F8B8857B28B0902700B50712 /* nowcoderHuawei */;
+			targetProxy = F8B8859828B0902800B50712 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F8CFE64328AD2295000BF4A7 /* Main.storyboard */ = {
+		F8B8858528B0902700B50712 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F8CFE64428AD2295000BF4A7 /* Base */,
+				F8B8858628B0902700B50712 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		F8CFE64828AD2296000BF4A7 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F8CFE64928AD2296000BF4A7 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F8CFE66228AD2296000BF4A7 /* Debug */ = {
+		F8B8859F28B0902800B50712 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -428,17 +414,17 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = iphoneos;
+				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		F8CFE66328AD2296000BF4A7 /* Release */ = {
+		F8B885A028B0902800B50712 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -482,75 +468,66 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
-				SDKROOT = iphoneos;
+				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		F8CFE66528AD2296000BF4A7 /* Debug */ = {
+		F8B885A228B0902800B50712 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = nowcoderHuawei/nowcoderHuawei.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = nowcoderHuawei/Info.plist;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/Frameworks",
+					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.aisling.nowcoderHuawei;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		F8CFE66628AD2296000BF4A7 /* Release */ = {
+		F8B885A328B0902800B50712 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = nowcoderHuawei/nowcoderHuawei.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = nowcoderHuawei/Info.plist;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/Frameworks",
+					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.aisling.nowcoderHuawei;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTS_MACCATALYST = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		F8CFE66828AD2296000BF4A7 /* Debug */ = {
+		F8B885A528B0902800B50712 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -558,18 +535,17 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.aisling.nowcoderHuaweiTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/nowcoderHuawei.app/nowcoderHuawei";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/nowcoderHuawei.app/Contents/MacOS/nowcoderHuawei";
 			};
 			name = Debug;
 		};
-		F8CFE66928AD2296000BF4A7 /* Release */ = {
+		F8B885A628B0902800B50712 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -577,18 +553,17 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				MACOSX_DEPLOYMENT_TARGET = 12.3;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.aisling.nowcoderHuaweiTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/nowcoderHuawei.app/nowcoderHuawei";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/nowcoderHuawei.app/Contents/MacOS/nowcoderHuawei";
 			};
 			name = Release;
 		};
-		F8CFE66B28AD2296000BF4A7 /* Debug */ = {
+		F8B885A828B0902800B50712 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -600,12 +575,11 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = nowcoderHuawei;
 			};
 			name = Debug;
 		};
-		F8CFE66C28AD2296000BF4A7 /* Release */ = {
+		F8B885A928B0902800B50712 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -617,7 +591,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = nowcoderHuawei;
 			};
 			name = Release;
@@ -625,43 +598,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F8CFE63528AD2295000BF4A7 /* Build configuration list for PBXProject "nowcoderHuawei" */ = {
+		F8B8857728B0902700B50712 /* Build configuration list for PBXProject "nowcoderHuawei" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8CFE66228AD2296000BF4A7 /* Debug */,
-				F8CFE66328AD2296000BF4A7 /* Release */,
+				F8B8859F28B0902800B50712 /* Debug */,
+				F8B885A028B0902800B50712 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8CFE66428AD2296000BF4A7 /* Build configuration list for PBXNativeTarget "nowcoderHuawei" */ = {
+		F8B885A128B0902800B50712 /* Build configuration list for PBXNativeTarget "nowcoderHuawei" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8CFE66528AD2296000BF4A7 /* Debug */,
-				F8CFE66628AD2296000BF4A7 /* Release */,
+				F8B885A228B0902800B50712 /* Debug */,
+				F8B885A328B0902800B50712 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8CFE66728AD2296000BF4A7 /* Build configuration list for PBXNativeTarget "nowcoderHuaweiTests" */ = {
+		F8B885A428B0902800B50712 /* Build configuration list for PBXNativeTarget "nowcoderHuaweiTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8CFE66828AD2296000BF4A7 /* Debug */,
-				F8CFE66928AD2296000BF4A7 /* Release */,
+				F8B885A528B0902800B50712 /* Debug */,
+				F8B885A628B0902800B50712 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F8CFE66A28AD2296000BF4A7 /* Build configuration list for PBXNativeTarget "nowcoderHuaweiUITests" */ = {
+		F8B885A728B0902800B50712 /* Build configuration list for PBXNativeTarget "nowcoderHuaweiUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F8CFE66B28AD2296000BF4A7 /* Debug */,
-				F8CFE66C28AD2296000BF4A7 /* Release */,
+				F8B885A828B0902800B50712 /* Debug */,
+				F8B885A928B0902800B50712 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F8CFE63228AD2295000BF4A7 /* Project object */;
+	rootObject = F8B8857428B0902700B50712 /* Project object */;
 }

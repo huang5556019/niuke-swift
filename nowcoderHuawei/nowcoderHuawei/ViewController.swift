@@ -2,19 +2,22 @@
 //  ViewController.swift
 //  nowcoderHuawei
 //
-//  Created by xthuang on 2022/8/17.
+//  Created by xthuang on 2022/8/20.
 //
 
-import UIKit
+import Cocoa
 
-class ViewController: UIViewController {
+class ViewController: NSViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
-        while let s = readLine() {
-            var worldLength = Easy_hj1_lengthOfLastWord.lengthOfLastWord(s)
-            print(worldLength)
+    }
+
+    override var representedObject: Any? {
+        didSet {
+        // Update the view, if already loaded.
         }
     }
 
